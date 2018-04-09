@@ -1,6 +1,6 @@
 //
 //  Bridging-Header.h
-//  BaseProject_Swift
+//  BaseProject_Swift_Example
 //
 //  Created by ArthurShuai on 2018/2/5.
 //  Copyright © 2018年 ArthurShuai. All rights reserved.

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  BaseProject_Swift
+//  BaseProject_Swift_Example
 //
 //  Created by ArthurShuai on 2018/1/31.
 //  Copyright © 2018年 ArthurShuai. All rights reserved.
